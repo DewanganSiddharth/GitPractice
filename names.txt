@@ -1,0 +1,2 @@
+this is names.txt
+this file contains information related to names of people only.
